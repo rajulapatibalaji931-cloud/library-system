@@ -1,0 +1,19 @@
+.page{
+    flex:1;
+    padding:30px;
+    background:#f5f7fa;
+}
+
+.book-list{
+    list-style:none;
+    padding:0;
+}
+
+.book-list li{
+    background:white;
+    margin:10px 0;
+    padding:15px;
+    border-radius:8px;
+    box-shadow:0 0 5px rgba(0,0,0,.1);
+    font-size:18px;
+}

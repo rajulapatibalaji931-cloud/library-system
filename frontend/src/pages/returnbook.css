@@ -1,0 +1,28 @@
+.page{
+    flex:1;
+    padding:30px;
+    background:#f5f7fa;
+}
+
+form{
+    width:400px;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.2);
+}
+
+input{
+    width:100%;
+    padding:12px;
+    margin:15px 0;
+}
+
+button{
+    width:100%;
+    background:#e67e22;
+    color:white;
+    padding:12px;
+    border:none;
+    border-radius:5px;
+}
